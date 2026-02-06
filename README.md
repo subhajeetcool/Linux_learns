@@ -17,3 +17,6 @@ For windows o/s it provides GUI and for Linux o/s it provides CLI.
 **Linux Kernel:** Interacts with the hardare such process, device, memeory, disk, network management handled by Linux kernel.
 On top of the kernel it has system layers and on top of it have CLI.
 Have used WSL as well as Docker containers to simulate the Linux environment in my PC.
+Package managers:
+It helps to deploy, upgrade, delete, maintain and install the dependencies.
+For ubuntu the package is - apt
