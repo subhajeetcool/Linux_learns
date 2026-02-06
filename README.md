@@ -20,3 +20,17 @@ Have used WSL as well as Docker containers to simulate the Linux environment in 
 Package managers:
 It helps to deploy, upgrade, delete, maintain and install the dependencies.
 For ubuntu the package is - apt
+**HOSTINGER**
+It provides diffenrt types of O/S with have annual plans for practice Linux.
+**Must know Linux Commands for productions:**
+1. cd then enter - returns back to home folder
+2. ls - lists the files and folders
+3. rm filename - to delete the filename
+4. rm -r directorname - to delete the directory
+5. pwd - which the present working directory
+6. When we are working on Linux we should be aware on which shell we working for? to check - echo $SHELL - which will show the /bin/bash
+7. mkdir sunha - to create a directory
+8. mkdir -p subha/new/{folder1,folder2} - to create folders inside the folders with multiple folders
+9. 
+10. 
+
