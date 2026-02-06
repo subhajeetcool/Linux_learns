@@ -7,3 +7,4 @@ O/S: it is an intermediate s/w layer that acts as a bridge between s/w and h/w a
 For windows o/s it provides GUI and for Linux o/s it provides CLI.
 # Structure of Linux:
 Linux Kernel: Interaction with the hardare such process, device, memeory, disk, network management handled by Linux kernel.
+On top of the kernel it has system layers and on top of it have CLI.
