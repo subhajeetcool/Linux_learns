@@ -14,3 +14,4 @@ For windows o/s it provides GUI and for Linux o/s it provides CLI.
 6. Hardware ( CPU, ram, disk, network, etc )
 **Linux Kernel:** Interaction with the hardare such process, device, memeory, disk, network management handled by Linux kernel.
 On top of the kernel it has system layers and on top of it have CLI.
+Have used WSL and Docker container to simulate the Linux environment in PC.
