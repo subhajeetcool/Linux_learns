@@ -56,3 +56,20 @@ It provides diffenrt types of O/S with have annual plans for practice Linux.
 Linux Folder structure:
 docker exec -it containerid /bin/bash -- to enter into the container
 / -- it is a parent location of the file system path and PWD
+sudo su - switches to the root user
+cd / -- moves to the root directory of the file system
+ls -ltr -- lists all the folders and files in the root user
+1. sbin - it is system binaries ( basically this are commands or files to manage the system )
+2. lib - it is a libraries
+3. boot - restarting the linux m/c
+4. bin - it is for user binaries
+5. usr - it has sbin, bin, lib
+6. srv - it is a server where we can store the configuration files related to web servers
+7. opt - it is used to store the 3rd dependinces inside it
+8. mnt - it is used to mount new volumes/disks
+9. var - it is used to store log files, libraries
+10. data - it is used for storing any data
+11. run - it stores the run data of the processes
+12. etc - it has all the system configuration files and using this files we can configure and modify the file systems
+13. PATH - it will tell the linux system when somebody enters the commands, it checks all the folders within the path and if it is in one of the folders you can directly execute it.
+14. 
