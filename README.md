@@ -52,4 +52,7 @@ It provides diffenrt types of O/S with have annual plans for practice Linux.
 27. ctrl + l - to clear the screen in terminal
 28. uptime - to check the time
 29. ss -tuln | grep 4000 - to check the listening port
-30. 
+# Day 2:
+Linux Folder structure:
+docker exec -it containerid /bin/bash -- to enter into the container
+/ -- it is a parent location of the file system path and PWD
